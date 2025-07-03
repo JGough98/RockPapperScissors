@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\players\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\players\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\players\\computerplayerrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\players\\computerplayerrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\players\\computerplayercopycat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\players\\computerplayercopycat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\gamerules\\multiplayerrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\gamerules\\multiplayerrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\gamerules\\twoplayerrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\gamerules\\twoplayerrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\gamerules\\interfaces\\ivictoryrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\gamerules\\interfaces\\ivictoryrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\factories\\spockgamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\factories\\spockgamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\factories\\rockpaperscissorsgamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\factories\\rockpaperscissorsgamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\extensions\\roundresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\extensions\\roundresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\rules\\roundresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\rules\\roundresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\rules\\moverule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\rules\\moverule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\rules\\interface\\imoverule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\rules\\interface\\imoverule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\rules\\interface\\iinitializemoverule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\rules\\interface\\iinitializemoverule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\render\\rendertoconsoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\render\\rendertoconsoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\render\\renderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\render\\renderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\players\\interfaces\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\players\\interfaces\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\interface\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\interface\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|c:\\users\\jwgou\\source\\repos\\rockpapperscissors\\rockpapperscissors\\rockpaperscissors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8998174F-E966-4D1C-A3E7-8620A0374705}|RockPapperScissors\\RockPaperScissors.csproj|solutionrelative:rockpapperscissors\\rockpaperscissors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RockPaperScissors.csproj",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\RockPaperScissors.csproj",
+              "RelativeDocumentMoniker": "RockPapperScissors\\RockPaperScissors.csproj",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\RockPaperScissors.csproj",
+              "RelativeToolTip": "RockPapperScissors\\RockPaperScissors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T09:52:16.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoundResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Extensions\\RoundResultExtensions.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Extensions\\RoundResultExtensions.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Extensions\\RoundResultExtensions.cs",
+              "RelativeToolTip": "RockPapperScissors\\Extensions\\RoundResultExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:35.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RockPaperScissorsGameFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Factories\\RockPaperScissorsGameFactory.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Factories\\RockPaperScissorsGameFactory.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Factories\\RockPaperScissorsGameFactory.cs",
+              "RelativeToolTip": "RockPapperScissors\\Factories\\RockPaperScissorsGameFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:33.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpockGameFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Factories\\SpockGameFactory.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Factories\\SpockGameFactory.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Factories\\SpockGameFactory.cs",
+              "RelativeToolTip": "RockPapperScissors\\Factories\\SpockGameFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:32.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVictoryRender.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameRules\\Interfaces\\IVictoryRender.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\GameRules\\Interfaces\\IVictoryRender.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameRules\\Interfaces\\IVictoryRender.cs",
+              "RelativeToolTip": "RockPapperScissors\\GameRules\\Interfaces\\IVictoryRender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiPlayerRender.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameRules\\MultiPlayerRender.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\GameRules\\MultiPlayerRender.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameRules\\MultiPlayerRender.cs",
+              "RelativeToolTip": "RockPapperScissors\\GameRules\\MultiPlayerRender.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwoPlayerRender.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameRules\\TwoPlayerRender.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\GameRules\\TwoPlayerRender.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameRules\\TwoPlayerRender.cs",
+              "RelativeToolTip": "RockPapperScissors\\GameRules\\TwoPlayerRender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:26.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\Interfaces\\IPlayer.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Players\\Interfaces\\IPlayer.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\Interfaces\\IPlayer.cs",
+              "RelativeToolTip": "RockPapperScissors\\Players\\Interfaces\\IPlayer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Interface\\IFactory.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Interface\\IFactory.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Interface\\IFactory.cs",
+              "RelativeToolTip": "RockPapperScissors\\Interface\\IFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:19.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComputerPlayerCopyCat.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\ComputerPlayerCopyCat.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Players\\ComputerPlayerCopyCat.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\ComputerPlayerCopyCat.cs",
+              "RelativeToolTip": "RockPapperScissors\\Players\\ComputerPlayerCopyCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:18.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputerPlayerRandom.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\ComputerPlayerRandom.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Players\\ComputerPlayerRandom.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\ComputerPlayerRandom.cs",
+              "RelativeToolTip": "RockPapperScissors\\Players\\ComputerPlayerRandom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Players\\HumanPlayer.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Players\\HumanPlayer.cs",
+              "RelativeToolTip": "RockPapperScissors\\Players\\HumanPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:15.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IInitializeMoveRule.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\Interface\\IInitializeMoveRule.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Rules\\Interface\\IInitializeMoveRule.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\Interface\\IInitializeMoveRule.cs",
+              "RelativeToolTip": "RockPapperScissors\\Rules\\Interface\\IInitializeMoveRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:08.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMoveRule.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\Interface\\IMoveRule.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Rules\\Interface\\IMoveRule.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\Interface\\IMoveRule.cs",
+              "RelativeToolTip": "RockPapperScissors\\Rules\\Interface\\IMoveRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoveRule.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\MoveRule.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Rules\\MoveRule.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\MoveRule.cs",
+              "RelativeToolTip": "RockPapperScissors\\Rules\\MoveRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:05.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoundResult.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\RoundResult.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Rules\\RoundResult.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Rules\\RoundResult.cs",
+              "RelativeToolTip": "RockPapperScissors\\Rules\\RoundResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:44:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Program.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Program.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Program.cs",
+              "RelativeToolTip": "RockPapperScissors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:43:48.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RenderToConsoleUtility.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Render\\RenderToConsoleUtility.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Render\\RenderToConsoleUtility.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Render\\RenderToConsoleUtility.cs",
+              "RelativeToolTip": "RockPapperScissors\\Render\\RenderToConsoleUtility.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:36:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RenderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Render\\RenderOptions.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Render\\RenderOptions.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Render\\RenderOptions.cs",
+              "RelativeToolTip": "RockPapperScissors\\Render\\RenderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:36:57.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Board.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\Board.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\Board.cs",
+              "RelativeToolTip": "RockPapperScissors\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:36:37.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameController.cs",
+              "RelativeDocumentMoniker": "RockPapperScissors\\GameController.cs",
+              "ToolTip": "C:\\Users\\jwgou\\source\\repos\\RockPapperScissors\\RockPapperScissors\\GameController.cs",
+              "RelativeToolTip": "RockPapperScissors\\GameController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:26:19.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
